@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AWSSDK.RDS" Version="3.7.12" />
+    <PackageReference Include="DnsClient" Version="1.6.0" />
+  </ItemGroup>
+
+</Project>
