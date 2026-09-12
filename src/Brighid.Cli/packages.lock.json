@@ -4,11 +4,11 @@
     "net6.0": {
       "AWSSDK.RDS": {
         "type": "Direct",
-        "requested": "[3.7.12, )",
-        "resolved": "3.7.12",
-        "contentHash": "ETlvlg0x9faitZEiIG2CuVINDQQ+YsI77Zyp1EZYOcXuJ9JSXELRgbu4mLKGD1jAjn06k/5sP3eIwRf6YrVkRw==",
+        "requested": "[3.7.515.4, )",
+        "resolved": "3.7.515.4",
+        "contentHash": "WSlVAWiPQlKQsTCD5InNLWXG7owdsqPPGH/4pW5mj+4ETwf/L9V5GRlXqY0B8gZMC4R7WbwzcSCmw+IEyUAMhQ==",
         "dependencies": {
-          "AWSSDK.Core": "[3.7.10.11, 4.0.0)"
+          "AWSSDK.Core": "[3.7.501.1, 4.0.0)"
         }
       },
       "DnsClient": {
@@ -31,8 +31,8 @@
       },
       "AWSSDK.Core": {
         "type": "Transitive",
-        "resolved": "3.7.10.11",
-        "contentHash": "B+M7ggPC0FogATRPQxDXL0eTusCQtXulW4zCuX39yiHV8+u9MEXRytcAw0ZA3zFBYYx6ovl9lklho6OQo1DRRQ=="
+        "resolved": "3.7.501.1",
+        "contentHash": "VZR0LRAawpn5FQwXNPzhOO8DHhfffhBSvcSZT1d0ctcZ+kmsz3tzTArZnTQ9Haf/TNEqNLzKupHfjV2ndWAL4A=="
       },
       "Microsoft.NETCore.Platforms": {
         "type": "Transitive",
